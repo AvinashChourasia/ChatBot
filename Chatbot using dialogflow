@@ -1,3 +1,17 @@
-<iframe allow="microphone;" width="350" height="430"
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chatbot</title>
+</head>
+<body>
+    <div class="pizzabot">
+        <iframe allow="microphone;" width="350" height="430"
             src="https://console.dialogflow.com/api-client/demo/embedded/a83ee1fb-e2dc-419b-9c35-e6f09100c6ff">
-</iframe>
+        </iframe>
+    </div>
+    
+</body>
+</html>
